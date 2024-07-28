@@ -49,6 +49,8 @@ class ViewController: UIViewController {
         player.seek(to: .zero)
         player.play()
         
+        let a = asdf(asdf: "go")
+        
     }
     
     
@@ -71,6 +73,11 @@ class ViewController: UIViewController {
 //              player?.seek(to: time)
 //          }
       }
+    
+    func asdf(asdf:String) -> String {
+        var a = String()
+        return a
+    }
     
     @IBAction func moveBackward(_ sender: UIButton) {
           let currentTime = CMTimeGetSeconds(player?.currentTime() ?? CMTime.zero)
