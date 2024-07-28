@@ -1,0 +1,16 @@
+PODS:
+  - WaveSlider (1.0.2)
+
+DEPENDENCIES:
+  - WaveSlider
+
+SPEC REPOS:
+  trunk:
+    - WaveSlider
+
+SPEC CHECKSUMS:
+  WaveSlider: b59b79cf07b09baa021c2e1b9886bb80f9504eed
+
+PODFILE CHECKSUM: 3d142e7385710c44dbbb0be226e7f0d275894f1b
+
+COCOAPODS: 1.15.2

@@ -1,0 +1,6 @@
+framework module WaveSlider {
+  umbrella header "WaveSlider-umbrella.h"
+
+  export *
+  module * { export * }
+}
